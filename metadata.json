@@ -1,0 +1,6 @@
+{
+  "name": "Club Multitienda - Registro de Compras VIP y Aportes CEB",
+  "description": "Sistema de Registro de Compras VIP y fidelización con impacto social para comercios afiliados y cálculo de aportes al Centro de Experiencias Bilingüe (CEB).",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
